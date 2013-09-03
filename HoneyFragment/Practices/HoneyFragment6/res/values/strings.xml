@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HoneyActivityActivity!</string>
+    <string name="app_name">HoneyActivity</string>
+    <string-array name="title_list">
+        <item >독도의 성난 바다</item>
+        <item >독도 판타지</item>
+        <item >평화</item>
+        <item >독도의 가을</item>
+    </string-array>
+
+</resources>
