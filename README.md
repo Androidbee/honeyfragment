@@ -1,0 +1,4 @@
+honeyfragment
+=============
+
+fragment &amp; actionbar
