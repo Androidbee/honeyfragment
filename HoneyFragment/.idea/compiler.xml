@@ -12,6 +12,8 @@
       <directory url="file://$PROJECT_DIR$/../HoneyFragment1/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/../HoneyFragment4/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/../HoneyFragment2/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../frag.ListLoader/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../frag.state/gen" includeSubdirectories="true" />
     </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>

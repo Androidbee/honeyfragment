@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">I \'m Freddy the Fragment</string>
+    <string name="new_fragment">New Fragment</string>
+    <string name="app_name">Fragment Tutorial</string>
+    
+</resources>

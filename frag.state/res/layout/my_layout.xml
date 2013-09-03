@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:padding="24dip"
+	android:background="#FF0000" android:layout_margin="25px">
+	<TextView android:id="@+id/text" android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:gravity="center_horizontal"
+		android:text="@string/hello_world" android:textSize="45sp"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:textColor="#808080" />
+	<TextView android:layout_height="wrap_content"
+		android:layout_width="wrap_content" 
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:id="@+id/textView1" android:text="The rain..."
+		android:textSize="25sp"></TextView>
+	<TextView android:layout_height="wrap_content"
+		android:layout_width="wrap_content" 
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:id="@+id/textView2" android:text="in Spain..."
+		android:textSize="30sp"></TextView>
+	<TextView android:layout_height="wrap_content"
+		android:layout_width="wrap_content" 
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:id="@+id/textView3" android:text="falls mainly..."
+		android:textSize="35sp"></TextView>
+	<TextView android:layout_height="wrap_content"
+		android:layout_width="wrap_content" 
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:id="@+id/textView4" android:text="on the plain!"
+		android:textSize="40sp"></TextView>
+</LinearLayout>
+
+
